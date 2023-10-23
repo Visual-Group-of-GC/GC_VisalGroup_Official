@@ -1,3 +1,11 @@
+"""
+Target members: all members of the 23rd session and foxr lolunwer (4 + 1)
+Time: 2023/10/21
+Ver: -2023/10/21
+Competition link:
+- https://www.luogu.com.cn/contest/140210
+"""
+
 # P1
 # a = list(map(int, input().split()))
 # b = int(input())
